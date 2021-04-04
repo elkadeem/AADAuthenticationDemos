@@ -11,6 +11,7 @@ namespace AspNetMVC.AADAuthentications.Controllers
         // GET: Customers
         public ActionResult Index()
         {
+            //ToDo: We need to add models and so on
             return View();
         }
 
